@@ -13,7 +13,7 @@ func calcSquare(sideLen float64, sidesNum int32) float64 {
 	} else if sidesNum == 4 {
 		area = math.Pow(sideLen, 2)
 	} else {
-		area = -1
+		area = 0
 	}
 
 	return (area)
