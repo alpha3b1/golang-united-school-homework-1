@@ -1,4 +1,4 @@
-module epam.com/hw1
+module hw01
 
 go 1.17
 
